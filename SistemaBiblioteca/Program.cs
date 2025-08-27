@@ -11,7 +11,7 @@ namespace SistemaBiblioteca
     {
         static void Main(string[] args)
         {
-            List<Digital> digitales = new List<Digital>();
+            
             List<Libro> libros = new List<Libro>();
             List<Prestamo> prestamos = new List<Prestamo>();
 
